@@ -4,10 +4,10 @@
 
 * Jadoo, the Space Alien has befriended Koba upon landing on Earth. Since then, he wishes Koba to be more like him. In order to do so he decides to slowly transcribe Koba's DNA into RNA. But he has to write a very short code in order to do the transcription so as not to make Koba aware of the change. The four nucleotides found in DNA are adenine (A), cytosine (C), guanine (G) and thymine (T). The four nucleotides found in RNA are adenine (A), cytosine (C), guanine (G) and uracil (U).
 Given a DNA strand, its transcribed RNA strand is formed by replacing each nucleotide with its complement: 
-G --> C
-C --> G
-T --> A
-A --> U
+G --> C,
+C --> G,
+T --> A,
+A --> U.
 
 * Raghav is currently watching Netflix. He is feeling thrilled after watching Seasons 1, 2 and 3 of 13 Reasons Why, and is desperately
 waiting for release of Season 4. But the makers of the show are in no mood to release the next season anytime soon. The makers of 13 Reasons Why give Raghav a challenge to solve. If he solves this challenge, then they will give exclusive copy of Season 4 to him. But Raghav is feeling lazy. Can you help him solve this challenge? Given 3 integers A, B, C. Do the following steps-
