@@ -1,1 +1,1 @@
-print(ord('i') * 4)
+print(ord('i') * ord('i') * ord('i') * ord('i'))
