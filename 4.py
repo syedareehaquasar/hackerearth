@@ -1,1 +1,1 @@
-print(ord('i') * ord('i') * ord('i') * ord('i'))
+print(ord('i') + ord('i') + ord('i') + ord('i'))
